@@ -42,7 +42,7 @@ I have worked on projects that served thousands of users, built scalable applica
 ## 🎯 LeetCode Heatmap
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Ahmad Habbas?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 
@@ -50,6 +50,6 @@ I have worked on projects that served thousands of users, built scalable applica
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/🌐_gmail-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed.habbas31@gmail.com/)
+[![Email](https://img.shields.io/badge/🌐_Email-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed.habbas31@gmail.com/)
 
 </div>
