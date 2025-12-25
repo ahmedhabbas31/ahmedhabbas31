@@ -1,4 +1,4 @@
-# Hey there, I'm [Ahmad Habbas]👋
+# Hey there, I'm Ahmad Habbas👋
 
 **Full-stack Web Developer · CS Student · Coffee Lover ☕**
 
