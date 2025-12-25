@@ -1,4 +1,4 @@
-# Hey there, I'm [Ahmad Habbas](https://ahmedhabbas31.vercel.app/) 👋
+# Hey there, I'm [Ahmad Habbas]👋
 
 **Full-stack Web Developer · CS Student · Coffee Lover ☕**
 
